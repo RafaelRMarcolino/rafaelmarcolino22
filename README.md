@@ -1,6 +1,6 @@
 ## Hey,  I'm Rafael Reinaldo! :wave:
 
-Graduated in systems analysis and development, studying **computer science**
+Graduated in systems analysis and development, studying **computer science**</br>
 Going to the next level  :rocket:
 Disabled people  PCD :smile:
 
