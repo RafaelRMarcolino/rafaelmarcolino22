@@ -7,4 +7,4 @@ Going to the next level  :rocket: </br>
 
 :computer: Backend development 
 ### 🌱 I’m currently learning
-        Java | Spring Boot | node.js | Azure
+        Java | Spring Boot | Angular
