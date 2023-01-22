@@ -5,6 +5,3 @@ Going to the next level  :rocket: </br>
 
 "It's hard to understand the universe if you only study one planet" :earth_americas:
 
-:computer: Backend development 
-### 🌱 I’m currently learning
-        Java | Spring Boot | Angular
